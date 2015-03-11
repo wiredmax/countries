@@ -1,0 +1,749 @@
+{
+	"name": {
+		"common": "Alabama",
+		"native": {
+			"en": {
+				"common": "Alabama"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Autauga County" },
+		{ "type": "county", "name": "Baldwin County" },
+		{ "type": "county", "name": "Barbour County" },
+		{ "type": "county", "name": "Bibb County" },
+		{ "type": "county", "name": "Blount County" },
+		{ "type": "county", "name": "Bullock County" },
+		{ "type": "county", "name": "Butler County" },
+		{ "type": "county", "name": "Calhoun County" },
+		{ "type": "county", "name": "Chambers County" },
+		{ "type": "county", "name": "Cherokee County" },
+		{ "type": "county", "name": "Chilton County" },
+		{ "type": "county", "name": "Choctaw County" },
+		{ "type": "county", "name": "Clarke County" },
+		{ "type": "county", "name": "Clay County" },
+		{ "type": "county", "name": "Cleburne County" },
+		{ "type": "county", "name": "Coffee County" },
+		{ "type": "county", "name": "Colbert County" },
+		{ "type": "county", "name": "Conecuh County" },
+		{ "type": "county", "name": "Coosa County" },
+		{ "type": "county", "name": "Covington County" },
+		{ "type": "county", "name": "Crenshaw County" },
+		{ "type": "county", "name": "Cullman County" },
+		{ "type": "county", "name": "Dale County" },
+		{ "type": "county", "name": "Dallas County" },
+		{ "type": "county", "name": "DeKalb County" },
+		{ "type": "county", "name": "Elmore County" },
+		{ "type": "county", "name": "Escambia County" },
+		{ "type": "county", "name": "Etowah County" },
+		{ "type": "county", "name": "Fayette County" },
+		{ "type": "county", "name": "Franklin County" },
+		{ "type": "county", "name": "Geneva County" },
+		{ "type": "county", "name": "Greene County" },
+		{ "type": "county", "name": "Hale County" },
+		{ "type": "county", "name": "Henry County" },
+		{ "type": "county", "name": "Houston County" },
+		{ "type": "county", "name": "Jackson County" },
+		{ "type": "county", "name": "Jefferson County" },
+		{ "type": "county", "name": "Lamar County" },
+		{ "type": "county", "name": "Lauderdale County" },
+		{ "type": "county", "name": "Lawrence County" },
+		{ "type": "county", "name": "Lee County" },
+		{ "type": "county", "name": "Limestone County" },
+		{ "type": "county", "name": "Lowndes County" },
+		{ "type": "county", "name": "Macon County" },
+		{ "type": "county", "name": "Madison County" },
+		{ "type": "county", "name": "Marengo County" },
+		{ "type": "county", "name": "Marion County" },
+		{ "type": "county", "name": "Marshall County" },
+		{ "type": "county", "name": "Mobile County" },
+		{ "type": "county", "name": "Monroe County" },
+		{ "type": "county", "name": "Montgomery County" },
+		{ "type": "county", "name": "Morgan County" },
+		{ "type": "county", "name": "Perry County" },
+		{ "type": "county", "name": "Pickens County" },
+		{ "type": "county", "name": "Pike County" },
+		{ "type": "county", "name": "Randolph County" },
+		{ "type": "county", "name": "Russell County" },
+		{ "type": "county", "name": "Saint Clair County" },
+		{ "type": "county", "name": "Shelby County" },
+		{ "type": "county", "name": "Sumter County" },
+		{ "type": "county", "name": "Talladega County" },
+		{ "type": "county", "name": "Tallapoosa County" },
+		{ "type": "county", "name": "Tuscaloosa County" },
+		{ "type": "county", "name": "Walker County" },
+		{ "type": "county", "name": "Washington County" },
+		{ "type": "county", "name": "Wilcox County" },
+		{ "type": "county", "name": "Winston County" }
+	]
+},
+{
+	"name": {
+		"common": "Alaska",
+		"native": {
+			"en": {
+				"common": "Alaska"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Aleutians East Boroughy" },
+		{ "type": "county", "name": "Aleutians West Census Area" },
+		{ "type": "county", "name": "Anchorage Municipality" },
+		{ "type": "county", "name": "Annette Island Reserve" },
+		{ "type": "county", "name": "Bethel Census Area" },
+		{ "type": "county", "name": "Bristol Bay Borough" },
+		{ "type": "county", "name": "City and Borough of Wrangell" },
+		{ "type": "county", "name": "Denali Borough" },
+		{ "type": "county", "name": "Dillingham Census Area" },
+		{ "type": "county", "name": "Fairbanks North Star Borough" },
+		{ "type": "county", "name": "Haines Borough" },
+		{ "type": "county", "name": "Hoonah-Angoon Census Area" },
+		{ "type": "county", "name": "Juneau City and Borough" },
+		{ "type": "county", "name": "Kenai Peninsula Borough" },
+		{ "type": "county", "name": "Ketchikan Gateway Borough" },
+		{ "type": "county", "name": "Kodiak Island Borough" },
+		{ "type": "county", "name": "Lake and Peninsula Borough" },
+		{ "type": "county", "name": "Matanuska-Susitna Borough" },
+		{ "type": "county", "name": "Nome Census Area" },
+		{ "type": "county", "name": "North Slope Borough" },
+		{ "type": "county", "name": "Northwest Arctic Borough" },
+		{ "type": "county", "name": "Petersburg Census Area" },
+		{ "type": "county", "name": "Prince of Wales-Outer Ketchikan Census Area" },
+		{ "type": "county", "name": "Sitka City and Borough" },
+		{ "type": "county", "name": "Skagway Municipality" },
+		{ "type": "county", "name": "Southeast Fairbanks Census Area" },
+		{ "type": "county", "name": "Valdez-Cordova Census Area" },
+		{ "type": "county", "name": "Wade Hampton Census Area" },
+		{ "type": "county", "name": "Wrangell-Petersburg Census Area" },
+		{ "type": "county", "name": "Yakutat City and Borough" },
+		{ "type": "county", "name": "Yukon-Koyukuk Census Area" }
+	]
+},
+{
+	"name": {
+		"common": "Arizona",
+		"native": {
+			"en": {
+				"common": "Arizona"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Apache County" },
+		{ "type": "county", "name": "Cochise County" },
+		{ "type": "county", "name": "Coconino County" },
+		{ "type": "county", "name": "Gila County" },
+		{ "type": "county", "name": "Graham County" },
+		{ "type": "county", "name": "Greenlee County" },
+		{ "type": "county", "name": "La Paz County" },
+		{ "type": "county", "name": "Maricopa County" },
+		{ "type": "county", "name": "Mohave County" },
+		{ "type": "county", "name": "Navajo County" },
+		{ "type": "county", "name": "Pima County" },
+		{ "type": "county", "name": "Pinal County" },
+		{ "type": "county", "name": "Santa Cruz County" },
+		{ "type": "county", "name": "Yavapai County" },
+		{ "type": "county", "name": "Yuma County" }
+	]
+},
+{
+	"name": {
+		"common": "Arkansas",
+		"native": {
+			"en": {
+				"common": "Arkansas"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Arkansas County" },
+		{ "type": "county", "name": "Ashley County" },
+		{ "type": "county", "name": "Baxter County" },
+		{ "type": "county", "name": "Benton County" },
+		{ "type": "county", "name": "Boone County" },
+		{ "type": "county", "name": "Bradley County" },
+		{ "type": "county", "name": "Calhoun County" },
+		{ "type": "county", "name": "Carroll County" },
+		{ "type": "county", "name": "Chicot County" },
+		{ "type": "county", "name": "Clark County" },
+		{ "type": "county", "name": "Clay County" },
+		{ "type": "county", "name": "Cleburne County" },
+		{ "type": "county", "name": "Cleveland County" },
+		{ "type": "county", "name": "Columbia County" },
+		{ "type": "county", "name": "Conway County" },
+		{ "type": "county", "name": "Craighead County" },
+		{ "type": "county", "name": "Crawford County" },
+		{ "type": "county", "name": "Crittenden County" },
+		{ "type": "county", "name": "Cross County" },
+		{ "type": "county", "name": "Dallas County" },
+		{ "type": "county", "name": "Desha County" },
+		{ "type": "county", "name": "Drew County" },
+		{ "type": "county", "name": "Faulkner County" },
+		{ "type": "county", "name": "Franklin County" },
+		{ "type": "county", "name": "Fulton County" },
+		{ "type": "county", "name": "Garland County" },
+		{ "type": "county", "name": "Grant County" },
+		{ "type": "county", "name": "Greene County" },
+		{ "type": "county", "name": "Fayette County" },
+		{ "type": "county", "name": "Franklin County" },
+		{ "type": "county", "name": "Geneva County" },
+		{ "type": "county", "name": "Greene County" },
+		{ "type": "county", "name": "Hempstead County" },
+		{ "type": "county", "name": "Hot Spring County" },
+		{ "type": "county", "name": "Howard County" },
+		{ "type": "county", "name": "Independence County" },
+		{ "type": "county", "name": "Izard County" },
+		{ "type": "county", "name": "Jackson County" },
+		{ "type": "county", "name": "Jefferson County" },
+		{ "type": "county", "name": "Johnson County" },
+		{ "type": "county", "name": "Lafayette County" },
+		{ "type": "county", "name": "Lawrence County" },
+		{ "type": "county", "name": "Lee County" },
+		{ "type": "county", "name": "Lincoln County" },
+		{ "type": "county", "name": "Little River County" },
+		{ "type": "county", "name": "Logan County" },
+		{ "type": "county", "name": "Lonoke County" },
+		{ "type": "county", "name": "Madison County" },
+		{ "type": "county", "name": "Marion County" },
+		{ "type": "county", "name": "Miller County" },
+		{ "type": "county", "name": "Mississippi County" },
+		{ "type": "county", "name": "Monroe County" },
+		{ "type": "county", "name": "Montgomery County" },
+		{ "type": "county", "name": "Nevada County" },
+		{ "type": "county", "name": "Newton County" },
+		{ "type": "county", "name": "Ouachita County" },
+		{ "type": "county", "name": "Perry County" },
+		{ "type": "county", "name": "Phillips County" },
+		{ "type": "county", "name": "Pike County" },
+		{ "type": "county", "name": "Poinsett County" },
+		{ "type": "county", "name": "Polk County" },
+		{ "type": "county", "name": "Pope County" },
+		{ "type": "county", "name": "Prairie County" },
+		{ "type": "county", "name": "Pulaski County" },
+		{ "type": "county", "name": "Randolph County" },
+		{ "type": "county", "name": "Saint Francis County" },
+		{ "type": "county", "name": "Saline County" },
+		{ "type": "county", "name": "Scott County" },
+		{ "type": "county", "name": "Searcy County" },
+		{ "type": "county", "name": "Sebastian County" },
+		{ "type": "county", "name": "Sevier County" },
+		{ "type": "county", "name": "Sharp County" },
+		{ "type": "county", "name": "Stone County" },
+		{ "type": "county", "name": "Union County" },
+		{ "type": "county", "name": "Van Buren County" },
+		{ "type": "county", "name": "Washington County" },
+		{ "type": "county", "name": "White County" },
+		{ "type": "county", "name": "Woodruff County" },
+		{ "type": "county", "name": "Yell County" }	
+	]
+},
+{
+	"name": {
+		"common": "California",
+		"native": {
+			"en": {
+				"common": "California"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Alameda County" },
+		{ "type": "county", "name": "Alpine County" },
+		{ "type": "county", "name": "Amador County" },
+		{ "type": "county", "name": "Butte County" },
+		{ "type": "county", "name": "Calaveras County" },
+		{ "type": "county", "name": "Colusa County" },
+		{ "type": "county", "name": "Contra Costa County" },
+		{ "type": "county", "name": "Del Norte County" },
+		{ "type": "county", "name": "El Dorado County" },
+		{ "type": "county", "name": "Fresno County" },
+		{ "type": "county", "name": "Humboldt County" },
+		{ "type": "county", "name": "Imperial County" },
+		{ "type": "county", "name": "Inyo County" },
+		{ "type": "county", "name": "Kern County" },
+		{ "type": "county", "name": "Kings County" },
+		{ "type": "county", "name": "Lake County" },
+		{ "type": "county", "name": "Lassen County" },
+		{ "type": "county", "name": "Los Angeles County" },
+		{ "type": "county", "name": "Madera County" },
+		{ "type": "county", "name": "Marin County" },
+		{ "type": "county", "name": "Mariposa County" },
+		{ "type": "county", "name": "Mendocino County" },
+		{ "type": "county", "name": "Merced County" },
+		{ "type": "county", "name": "Modoc County" },
+		{ "type": "county", "name": "Mono County" },
+		{ "type": "county", "name": "Monterey County" },
+		{ "type": "county", "name": "Napa County" },
+		{ "type": "county", "name": "Nevada County" },
+		{ "type": "county", "name": "Orange County" },
+		{ "type": "county", "name": "Placer County" },
+		{ "type": "county", "name": "Plumas County" },
+		{ "type": "county", "name": "Riverside County" },
+		{ "type": "county", "name": "Sacramento County" },
+		{ "type": "county", "name": "San Benito County" },
+		{ "type": "county", "name": "San Bernardino County" },
+		{ "type": "county", "name": "San Diego County" },
+		{ "type": "county", "name": "San Francisco County" },
+		{ "type": "county", "name": "San Joaquin County" },
+		{ "type": "county", "name": "San Luis Obispo County" },
+		{ "type": "county", "name": "San Mateo County" },
+		{ "type": "county", "name": "Santa Barbara County" },
+		{ "type": "county", "name": "Santa Clara County" },
+		{ "type": "county", "name": "Santa Cruz County" },
+		{ "type": "county", "name": "Shasta County" },
+		{ "type": "county", "name": "Sierra County" },
+		{ "type": "county", "name": "Siskiyou County" },
+		{ "type": "county", "name": "Solano County" },
+		{ "type": "county", "name": "Sonoma County" },
+		{ "type": "county", "name": "Stanislaus County" },
+		{ "type": "county", "name": "Sutter County" },
+		{ "type": "county", "name": "Tehama County" },
+		{ "type": "county", "name": "Trinity County" },
+		{ "type": "county", "name": "Tulare County" },
+		{ "type": "county", "name": "Tuolumne County" },
+		{ "type": "county", "name": "Ventura County" },
+		{ "type": "county", "name": "Yolo County" },
+		{ "type": "county", "name": "Yuba County" }
+	]
+},
+{
+	"name": {
+		"common": "Colorado",
+		"native": {
+			"en": {
+				"common": "Colorado"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Adams County" },
+		{ "type": "county", "name": "Alamosa County" },
+		{ "type": "county", "name": "Arapahoe County" },
+		{ "type": "county", "name": "Archuleta County" },
+		{ "type": "county", "name": "Baca County" },
+		{ "type": "county", "name": "Bent County" },
+		{ "type": "county", "name": "Boulder County" },
+		{ "type": "county", "name": "Broomfield County" },
+		{ "type": "county", "name": "Chaffee County" },
+		{ "type": "county", "name": "Cheyenne County" },
+		{ "type": "county", "name": "Clear Creek County" },
+		{ "type": "county", "name": "Conejos County" },
+		{ "type": "county", "name": "Costilla County" },
+		{ "type": "county", "name": "Crowley County" },
+		{ "type": "county", "name": "Custer County" },
+		{ "type": "county", "name": "Delta County" },
+		{ "type": "county", "name": "Denver County" },
+		{ "type": "county", "name": "Dolores County" },
+		{ "type": "county", "name": "Douglas County" },
+		{ "type": "county", "name": "Eagle County" },
+		{ "type": "county", "name": "El Paso County" },
+		{ "type": "county", "name": "Elbert County" },
+		{ "type": "county", "name": "Fremont County" },
+		{ "type": "county", "name": "Garfield" },
+		{ "type": "county", "name": "Gilpin County" },
+		{ "type": "county", "name": "Grand County" },
+		{ "type": "county", "name": "Gunnison County" },
+		{ "type": "county", "name": "Hinsdale County" },
+		{ "type": "county", "name": "Huerfano County" },
+		{ "type": "county", "name": "Jackson County" },
+		{ "type": "county", "name": "Jefferson County" },
+		{ "type": "county", "name": "Kiowa County" },
+		{ "type": "county", "name": "Kit Carson County" },
+		{ "type": "county", "name": "La Plata County" },
+		{ "type": "county", "name": "Lake County" },
+		{ "type": "county", "name": "Larimer County" },
+		{ "type": "county", "name": "Las Animas County" },
+		{ "type": "county", "name": "Lincoln County" },
+		{ "type": "county", "name": "Logan County" },
+		{ "type": "county", "name": "Mesa County" },
+		{ "type": "county", "name": "Mineral County" },
+		{ "type": "county", "name": "Moffat County" },
+		{ "type": "county", "name": "Montezuma County" },
+		{ "type": "county", "name": "Montrose County" },
+		{ "type": "county", "name": "Morgan County" },
+		{ "type": "county", "name": "Otero County" },
+		{ "type": "county", "name": "Ouray County" },
+		{ "type": "county", "name": "Park County" },
+		{ "type": "county", "name": "Phillips County" },
+		{ "type": "county", "name": "Pitkin County" },
+		{ "type": "county", "name": "Prowers County" },
+		{ "type": "county", "name": "Pueblo County" },
+		{ "type": "county", "name": "Rio Blanco County" },
+		{ "type": "county", "name": "Rio Grande County" },
+		{ "type": "county", "name": "Routt County" },
+		{ "type": "county", "name": "Saguache County" },
+		{ "type": "county", "name": "San Juan County" },
+		{ "type": "county", "name": "San Miguel County" },
+		{ "type": "county", "name": "Sedgwick County" },
+		{ "type": "county", "name": "Summit County" },
+		{ "type": "county", "name": "Teller County" },
+		{ "type": "county", "name": "Washington County" },
+		{ "type": "county", "name": "Weld County" },
+		{ "type": "county", "name": "Yuma County" }
+	]
+},
+{
+	"name": {
+		"common": "Connecticut",
+		"native": {
+			"en": {
+				"common": "Connecticut"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Fairfield County" },
+		{ "type": "county", "name": "Hartford County" },
+		{ "type": "county", "name": "Litchfield County" },
+		{ "type": "county", "name": "Middlesex County" },
+		{ "type": "county", "name": "New Haven County" },
+		{ "type": "county", "name": "New London County" },
+		{ "type": "county", "name": "Tolland County" },
+		{ "type": "county", "name": "Windham County" }
+	]
+},
+{
+	"name": {
+		"common": "Delaware",
+		"native": {
+			"en": {
+				"common": "Delaware"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Kent County" },
+		{ "type": "county", "name": "New Castle County" },
+		{ "type": "county", "name": "Sussex County" }
+	]
+},
+{
+	"name": {
+		"common": "Florida",
+		"native": {
+			"en": {
+				"common": "Florida"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Alachua County" },
+		{ "type": "county", "name": "Baker County" },
+		{ "type": "county", "name": "Bay County" },
+		{ "type": "county", "name": "Bradford County" },
+		{ "type": "county", "name": "Brevard County" },
+		{ "type": "county", "name": "Broward County" },
+		{ "type": "county", "name": "Calhoun County" },
+		{ "type": "county", "name": "Charlotte County" },
+		{ "type": "county", "name": "Citrus County" },
+		{ "type": "county", "name": "Clay County" },
+		{ "type": "county", "name": "Collier County" },
+		{ "type": "county", "name": "Columbia County" },
+		{ "type": "county", "name": "DeSoto County" },
+		{ "type": "county", "name": "Dixie County" },
+		{ "type": "county", "name": "Duval County" },
+		{ "type": "county", "name": "Escambia County" },
+		{ "type": "county", "name": "Flagler County" },
+		{ "type": "county", "name": "Franklin County" },
+		{ "type": "county", "name": "Gadsden County" },
+		{ "type": "county", "name": "Gilchrist County" },
+		{ "type": "county", "name": "Glades County" },
+		{ "type": "county", "name": "Gulf County" },
+		{ "type": "county", "name": "Hamilton County" },
+		{ "type": "county", "name": "Hendry County" },
+		{ "type": "county", "name": "Hernando County" },
+		{ "type": "county", "name": "Highlands County" },
+		{ "type": "county", "name": "Hillsborough County" },
+		{ "type": "county", "name": "Holmes County" },
+		{ "type": "county", "name": "Indian River County" },
+		{ "type": "county", "name": "Jackson County" },
+		{ "type": "county", "name": "Jefferson County" },
+		{ "type": "county", "name": "Lafayette County" },
+		{ "type": "county", "name": "Lake Carson County" },
+		{ "type": "county", "name": "Lee County" },
+		{ "type": "county", "name": "Leon County" },
+		{ "type": "county", "name": "Levy County" },
+		{ "type": "county", "name": "Liberty County" },
+		{ "type": "county", "name": "Madison County" },
+		{ "type": "county", "name": "Manatee County" },
+		{ "type": "county", "name": "Marion County" },
+		{ "type": "county", "name": "Martin County" },
+		{ "type": "county", "name": "Miami-Dade" },
+		{ "type": "county", "name": "Monroe County" },
+		{ "type": "county", "name": "Nassau County" },
+		{ "type": "county", "name": "Okaloosa County" },
+		{ "type": "county", "name": "Okeechobee County" },
+		{ "type": "county", "name": "Orange County" },
+		{ "type": "county", "name": "Osceola County" },
+		{ "type": "county", "name": "Palm Beach" },
+		{ "type": "county", "name": "Pasco County" },
+		{ "type": "county", "name": "Pinellas County" },
+		{ "type": "county", "name": "Polk County" },
+		{ "type": "county", "name": "Putnam County" },
+		{ "type": "county", "name": "Saint Johns County" },
+		{ "type": "county", "name": "Saint Lucie County" },
+		{ "type": "county", "name": "Santa Rosa County" },
+		{ "type": "county", "name": "Sarasota County" },
+		{ "type": "county", "name": "Seminole County" },
+		{ "type": "county", "name": "Sumter County" },
+		{ "type": "county", "name": "Suwannee County" },
+		{ "type": "county", "name": "Taylor County" },
+		{ "type": "county", "name": "Union County" },
+		{ "type": "county", "name": "Volusia County" },
+		{ "type": "county", "name": "Wakulla County" },
+		{ "type": "county", "name": "Walton County" },
+		{ "type": "county", "name": "Washington County" }
+	]
+},
+{
+	"name": {
+		"common": "Hawaii",
+		"native": {
+			"en": {
+				"common": "Hawaii"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Hawaii County" },
+		{ "type": "county", "name": "Honolulu County" },
+		{ "type": "county", "name": "Kalawao County" },
+		{ "type": "county", "name": "Kauai County" },
+		{ "type": "county", "name": "Maui" }
+	]
+},
+{
+	"name": {
+		"common": "Idaho",
+		"native": {
+			"en": {
+				"common": "Idaho"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Ada County" },
+		{ "type": "county", "name": "Adams County" },
+		{ "type": "county", "name": "Bannock County" },
+		{ "type": "county", "name": "Bear Lake County" },
+		{ "type": "county", "name": "Benewah County" },
+		{ "type": "county", "name": "Bingham County" },
+		{ "type": "county", "name": "Boise County" },
+		{ "type": "county", "name": "Bonner County" },
+		{ "type": "county", "name": "Bonneville County" },
+		{ "type": "county", "name": "Boundary County" },
+		{ "type": "county", "name": "Butte County" },
+		{ "type": "county", "name": "Camas County" },
+		{ "type": "county", "name": "Canyon County" },
+		{ "type": "county", "name": "Caribou County" },
+		{ "type": "county", "name": "Cassia County" },
+		{ "type": "county", "name": "Clark County" },
+		{ "type": "county", "name": "Clearwater County" },
+		{ "type": "county", "name": "Custer County" },
+		{ "type": "county", "name": "Elmore County" },
+		{ "type": "county", "name": "Franklin County" },
+		{ "type": "county", "name": "Fremont County" },
+		{ "type": "county", "name": "Gem County" },
+		{ "type": "county", "name": "Gooding County" },
+		{ "type": "county", "name": "Idaho County" },
+		{ "type": "county", "name": "Jefferson County" },
+		{ "type": "county", "name": "Jerome County" },
+		{ "type": "county", "name": "Kootenai County" },
+		{ "type": "county", "name": "Latah County" },
+		{ "type": "county", "name": "Lemhi County" },
+		{ "type": "county", "name": "Lewis County" },
+		{ "type": "county", "name": "Lincoln County" },
+		{ "type": "county", "name": "Madison County" },
+		{ "type": "county", "name": "Minidoka County" },
+		{ "type": "county", "name": "Nez Perce County" },
+		{ "type": "county", "name": "Oneida County" },
+		{ "type": "county", "name": "Owyhee County" },
+		{ "type": "county", "name": "Payette County" },
+		{ "type": "county", "name": "Power County" },
+		{ "type": "county", "name": "Shoshone County" },
+		{ "type": "county", "name": "Teton County" },
+		{ "type": "county", "name": "Twin Falls County" },
+		{ "type": "county", "name": "Valley County" },
+		{ "type": "county", "name": "Washington County" }
+	]
+},
+{
+	"name": {
+		"common": "Louisiana",
+		"native": {
+			"en": {
+				"common": "Idaho"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "parish", "name": "Acadia Parish" },
+		{ "type": "parish", "name": "Allen Parish" },
+		{ "type": "parish", "name": "Ascension Parish" },
+		{ "type": "parish", "name": "Assumption Parish" },
+		{ "type": "parish", "name": "Avoyelles Parish" },
+		{ "type": "parish", "name": "Beauregard Parish" },
+		{ "type": "parish", "name": "Bienville Parish" },
+		{ "type": "parish", "name": "Bossier Parish" },
+		{ "type": "parish", "name": "Caddo Parish" },
+		{ "type": "parish", "name": "Calcasieu Parish" },
+		{ "type": "parish", "name": "Caldwell Parish" },
+		{ "type": "parish", "name": "Cameron Parish" },
+		{ "type": "parish", "name": "Catahoula Parish" },
+		{ "type": "parish", "name": "Claiborne Parish" },
+		{ "type": "parish", "name": "Concordia Parish" },
+		{ "type": "parish", "name": "DeSoto Parish" },
+		{ "type": "parish", "name": "East Baton Rouge Parish" },
+		{ "type": "parish", "name": "East Carroll Parish" },
+		{ "type": "parish", "name": "East Feliciana Parish" },
+		{ "type": "parish", "name": "Evangeline Parish" },
+		{ "type": "parish", "name": "Franklin Parish" },
+		{ "type": "parish", "name": "Grant Parish" },
+		{ "type": "parish", "name": "Iberia Parish" },
+		{ "type": "parish", "name": "Iberville Parish" },
+		{ "type": "parish", "name": "Jackson Parish" },
+		{ "type": "parish", "name": "Jefferson Davis Parish" },
+		{ "type": "parish", "name": "Jefferson Parish" },
+		{ "type": "parish", "name": "La Salle Parish" },
+		{ "type": "parish", "name": "Lafayette Parish" },
+		{ "type": "parish", "name": "Lafourche Parish" },
+		{ "type": "parish", "name": "Lincoln Parish" },
+		{ "type": "parish", "name": "Livingston Parish" },
+		{ "type": "parish", "name": "Madison Parish" },
+		{ "type": "parish", "name": "Morehouse Parish" },
+		{ "type": "parish", "name": "Natchitoches Parish" },
+		{ "type": "parish", "name": "Orleans Parish" },
+		{ "type": "parish", "name": "Ouachita Parish" },
+		{ "type": "parish", "name": "Plaquemines Parish" },
+		{ "type": "parish", "name": "Pointe Coupee Parish" },
+		{ "type": "parish", "name": "Rapides Parish" },
+		{ "type": "parish", "name": "Red River Parish" },
+		{ "type": "parish", "name": "Richland Parish" },
+		{ "type": "parish", "name": "Sabine Parish" },
+		{ "type": "parish", "name": "Saint Bernard Parish" },
+		{ "type": "parish", "name": "Saint Charles Parish" },
+		{ "type": "parish", "name": "Saint Helena Parish" },
+		{ "type": "parish", "name": "Saint James Parish" },
+		{ "type": "parish", "name": "Saint John the Baptis Parish" },
+		{ "type": "parish", "name": "Saint Landry Parish" },
+		{ "type": "parish", "name": "Saint Martin Parish" },
+		{ "type": "parish", "name": "Saint Mary Parish" },
+		{ "type": "parish", "name": "Saint Tammany Parish" },
+		{ "type": "parish", "name": "Tangipahoa Parish" },
+		{ "type": "parish", "name": "Terrebonne Parish" },
+		{ "type": "parish", "name": "Union Parish" },
+		{ "type": "parish", "name": "Vermilion Parish" },
+		{ "type": "parish", "name": "Vernon Parish" },
+		{ "type": "parish", "name": "Washington Parish" },
+		{ "type": "parish", "name": "Webster Parish" },
+		{ "type": "parish", "name": "West Baton Rouge Parish" },
+		{ "type": "parish", "name": "West Carroll Parish" },
+		{ "type": "parish", "name": "West Feliciana Parish" },
+		{ "type": "parish", "name": "Winn Parish" }
+	]
+},
+{
+	"name": {
+		"common": "Maine",
+		"native": {
+			"en": {
+				"common": "Maine"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Androscoggin County" },
+		{ "type": "county", "name": "Aroostook County" },
+		{ "type": "county", "name": "Cumberland County" },
+		{ "type": "county", "name": "Franklin County" },
+		{ "type": "county", "name": "Hancock County" },
+		{ "type": "county", "name": "Kennebec County" },
+		{ "type": "county", "name": "Knox County" },
+		{ "type": "county", "name": "Lincoln County" },
+		{ "type": "county", "name": "Oxford County" },
+		{ "type": "county", "name": "Penobscot County" },
+		{ "type": "county", "name": "Piscataquis County" },
+		{ "type": "county", "name": "Sagadahoc County" },
+		{ "type": "county", "name": "Somerset County" },
+		{ "type": "county", "name": "Waldo County" },
+		{ "type": "county", "name": "Washington County" },
+		{ "type": "county", "name": "York County" }
+	]
+},
+{
+	"name": {
+		"common": "Maryland",
+		"native": {
+			"en": {
+				"common": "Maryland"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Allegany County" },
+		{ "type": "county", "name": "Anne Arundel County" },
+		{ "type": "county", "name": "Baltimore County" },
+		{ "type": "county", "name": "Calvert County" },
+		{ "type": "county", "name": "Caroline County" },
+		{ "type": "county", "name": "Carroll County" },
+		{ "type": "county", "name": "Cecil County" },
+		{ "type": "county", "name": "Charles County" },
+		{ "type": "county", "name": "City of Baltimore" },
+		{ "type": "county", "name": "Dorchester County" },
+		{ "type": "county", "name": "Frederick County" },
+		{ "type": "county", "name": "Harford County" },
+		{ "type": "county", "name": "Howard County" },
+		{ "type": "county", "name": "Kent County" },
+		{ "type": "county", "name": "Montgomery County" },
+		{ "type": "county", "name": "Prince Georges County" },
+		{ "type": "county", "name": "Queen Anne's County" },
+		{ "type": "county", "name": "Saint Mary's County" },
+		{ "type": "county", "name": "Somerset County" },
+		{ "type": "county", "name": "Talbot County" },
+		{ "type": "county", "name": "Washington County" },
+		{ "type": "county", "name": "Wicomico County" },
+		{ "type": "county", "name": "Worcester County" }
+	]
+},
+{
+	"name": {
+		"common": "Massachusetts",
+		"native": {
+			"en": {
+				"common": "Massachusetts"
+			}
+		}
+	},
+	"type": "state",
+	"divisions": [
+		{ "type": "county", "name": "Barnstable County" },
+		{ "type": "county", "name": "Berkshire County" },
+		{ "type": "county", "name": "Bristol County" },
+		{ "type": "county", "name": "Dukes County" },
+		{ "type": "county", "name": "Essex County" },
+		{ "type": "county", "name": "Franklin County" },
+		{ "type": "county", "name": "Hampden County" },
+		{ "type": "county", "name": "Hampshire County" },
+		{ "type": "county", "name": "Middlesex County" },
+		{ "type": "county", "name": "Nantucket County" },
+		{ "type": "county", "name": "Norfolk County" },
+		{ "type": "county", "name": "Plymouth County" },
+		{ "type": "county", "name": "Suffolk County" },
+		{ "type": "county", "name": "Worcester County" }
+	]
+},
