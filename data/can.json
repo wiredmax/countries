@@ -1,0 +1,535 @@
+{
+	"name": {
+		"common": "Alberta",
+		"native": {
+			"en": {
+				"common": "Alberta"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "Northern Alberta" },
+		{ "type": "region", "name": "Alberta's Rockies" },
+		{ "type": "region", "name": "Southern Alberta" },
+		{ "type": "region", "name": "Calgary Region" },
+		{ "type": "region", "name": "Edmonton Capital Region" },
+		{ "type": "region", "name": "Central Alberta" },
+		{ "type": "municipal district", "name": "Acadia" },
+		{ "type": "municipal district", "name": "Athabasca County" },
+		{ "type": "municipal district", "name": "County of Barrhead" },
+		{ "type": "municipal district", "name": "Beaver County" },
+		{ "type": "municipal district", "name": "Big Lakes" },
+		{ "type": "municipal district", "name": "Bighorn" },
+		{ "type": "municipal district", "name": "Birch Hills County" },
+		{ "type": "municipal district", "name": "Bonnyville" },
+		{ "type": "municipal district", "name": "Brazeau County" },
+		{ "type": "municipal district", "name": "Camrose County" },
+		{ "type": "municipal district", "name": "Cardston County" },
+		{ "type": "municipal district", "name": "Clear Hills County" },
+		{ "type": "municipal district", "name": "Clearwater County" },
+		{ "type": "municipal district", "name": "Cypress County" },
+		{ "type": "municipal district", "name": "Fairview" },
+		{ "type": "municipal district", "name": "Flagstaff County" },
+		{ "type": "municipal district", "name": "Foothills" },
+		{ "type": "municipal district", "name": "County of Forty Mile" },
+		{ "type": "municipal district", "name": "County of Grande Prairie" },
+		{ "type": "municipal district", "name": "Greenview" },
+		{ "type": "municipal district", "name": "Kneehill County" },
+		{ "type": "municipal district", "name": "Lac La Biche County" },
+		{ "type": "municipal district", "name": "Lac Ste. Anne County" },
+		{ "type": "municipal district", "name": "Lacombe County" },
+		{ "type": "municipal district", "name": "Lamont County" },
+		{ "type": "municipal district", "name": "Leduc County" },
+		{ "type": "municipal district", "name": "Lesser Slave River" },
+		{ "type": "municipal district", "name": "Lethbridge County" },
+		{ "type": "municipal district", "name": "County of Minburn" },
+		{ "type": "municipal district", "name": "Mountain View County" },
+		{ "type": "municipal district", "name": "County of Newell" },
+		{ "type": "municipal district", "name": "County of Northern Lights" },
+		{ "type": "municipal district", "name": "Northern Sunrise County" },
+		{ "type": "municipal district", "name": "Opportunity" },
+		{ "type": "municipal district", "name": "County of Paintearth" },
+		{ "type": "municipal district", "name": "Parkland County" },
+		{ "type": "municipal district", "name": "Peace" },
+		{ "type": "municipal district", "name": "Pincher Creek" },
+		{ "type": "municipal district", "name": "Ponoka County" },
+		{ "type": "municipal district", "name": "Provost" },
+		{ "type": "municipal district", "name": "Ranchland" },
+		{ "type": "municipal district", "name": "Red Deer County" },
+		{ "type": "municipal district", "name": "Rocky View County" },
+		{ "type": "municipal district", "name": "Saddle Hills County" },
+		{ "type": "municipal district", "name": "Smoky Lake County" },
+		{ "type": "municipal district", "name": "Smoky River" },
+		{ "type": "municipal district", "name": "Spirit River" },
+		{ "type": "municipal district", "name": "County of St. Paul" },
+		{ "type": "municipal district", "name": "Starland County" },
+		{ "type": "municipal district", "name": "County of Stettler" },
+		{ "type": "municipal district", "name": "Sturgeon County" },
+		{ "type": "municipal district", "name": "Taber" },
+		{ "type": "municipal district", "name": "Thorhild County" },
+		{ "type": "municipal district", "name": "County of Two Hills" },
+		{ "type": "municipal district", "name": "County of Vermilion River" },
+		{ "type": "municipal district", "name": "Vulcan County" },
+		{ "type": "municipal district", "name": "Wainwright" },
+		{ "type": "municipal district", "name": "County of Warner" },
+		{ "type": "municipal district", "name": "Westlock County" },
+		{ "type": "municipal district", "name": "County of Wetaskiwin" },
+		{ "type": "municipal district", "name": "Wheatland County" },
+		{ "type": "municipal district", "name": "Willow" },
+		{ "type": "municipal district", "name": "Woodlands County" },
+		{ "type": "municipal district", "name": "Yellowhead County" },
+		{ "type": "specialized municipality", "name": "Mackenzie County" },
+		{ "type": "specialized municipality", "name": "Strathcona County" },
+		{ "type": "specialized municipality", "name": "Crowsnest Pass" },
+		{ "type": "specialized municipality", "name": "Jasper" },
+		{ "type": "specialized municipality", "name": "Wood Buffalo" }
+	]
+},
+{
+	"name": {
+		"common": "British Columbia",
+		"native": {
+			"en": {
+				"common": "British Columbia"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "British Columbia Interior" },
+		{ "type": "region", "name": "South Coast" },
+		{ "type": "region", "name": "Central Coast" },
+		{ "type": "region", "name": "North Coast" },
+		{ "type": "regional district", "name": "Capital Regional District" },
+		{ "type": "regional district", "name": "Cariboo Regional District" },
+		{ "type": "regional district", "name": "Central Coast Regional District" },
+		{ "type": "regional district", "name": "Columbia-Shuswap Regional District" },
+		{ "type": "regional district", "name": "Comox Valley Regional District" },
+		{ "type": "regional district", "name": "Cowichan Valley Regional District" },
+		{ "type": "regional district", "name": "Fraser Valley" },
+		{ "type": "regional district", "name": "Greater Vancouver Regional District" },
+		{ "type": "regional district", "name": "Northern Rockies Regional Municipality" },
+		{ "type": "regional district", "name": "Peace River Regional District" },
+		{ "type": "regional district", "name": "Powell River Regional District" },
+		{ "type": "regional district", "name": "Regional District of Alberni-Clayoquot" },
+		{ "type": "regional district", "name": "Regional District of Bulkley-Nechako" },
+		{ "type": "regional district", "name": "Regional District of Central Kootenay" },
+		{ "type": "regional district", "name": "Regional District of Central Okanagan" },
+		{ "type": "regional district", "name": "Regional District of East Kootenay" },
+		{ "type": "regional district", "name": "Regional District of Fraser-Fort George" },
+		{ "type": "regional district", "name": "Regional District of Kitimat-Stikine" },
+		{ "type": "regional district", "name": "Regional District of Kootenay-Boundary" },
+		{ "type": "regional district", "name": "Regional District of Mount Waddington" },
+		{ "type": "regional district", "name": "Regional District of Nanaimo" },
+		{ "type": "regional district", "name": "Regional District of North Okanagan" },
+		{ "type": "regional district", "name": "Regional District of Okanagan-Similkameen" },
+		{ "type": "regional district", "name": "Skeena-Queen Charlotte Regional District" },
+		{ "type": "regional district", "name": "Squamish-Lillooet Regional District" },
+		{ "type": "regional district", "name": "Stikine Region" },
+		{ "type": "regional district", "name": "Strathcona Regional District" },
+		{ "type": "regional district", "name": "Sunshine Coast Regional District" },
+		{ "type": "regional district", "name": "Thompson-Nicola Regional District" },
+	]
+},
+{
+	"name": {
+		"common": "Manitoba",
+		"native": {
+			"en": {
+				"common": "Manitoba"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "Central Plains" },
+		{ "type": "region", "name": "Eastman" },
+		{ "type": "region", "name": "Interlake" },
+		{ "type": "region", "name": "Northern" },
+		{ "type": "region", "name": "Parkland" },
+		{ "type": "region", "name": "Pembina Valley" },
+		{ "type": "region", "name": "Westman" },
+		{ "type": "region", "name": "Winnipeg Capital Region" },
+		{ "type": "rural municipality", "name": "Albert" },
+		{ "type": "rural municipality", "name": "Alexander" },
+		{ "type": "rural municipality", "name": "Alonsa" },
+		{ "type": "rural municipality", "name": "Archie" },
+		{ "type": "rural municipality", "name": "Argyle" },
+		{ "type": "rural municipality", "name": "Armstrong" },
+		{ "type": "rural municipality", "name": "Arthur" },
+		{ "type": "rural municipality", "name": "Bifrost" },
+		{ "type": "rural municipality", "name": "Birtle" },
+		{ "type": "rural municipality", "name": "Blanshard" },
+		{ "type": "rural municipality", "name": "Brenda" },
+		{ "type": "rural municipality", "name": "Brokenhead" },
+		{ "type": "rural municipality", "name": "Cameron" },
+		{ "type": "rural municipality", "name": "Cartier" },
+		{ "type": "rural municipality", "name": "Clanwilliam" },
+		{ "type": "rural municipality", "name": "Coldwell" },
+		{ "type": "rural municipality", "name": "Cornwallis" },
+		{ "type": "rural municipality", "name": "Daly" },
+		{ "type": "rural municipality", "name": "Dauphin" },
+		{ "type": "rural municipality", "name": "De Salaberry" },
+		{ "type": "rural municipality", "name": "Dufferin" },
+		{ "type": "rural municipality", "name": "East St. Paul" },
+		{ "type": "rural municipality", "name": "Edward" },
+		{ "type": "rural municipality", "name": "Ellice" },
+		{ "type": "rural municipality", "name": "Elton" },
+		{ "type": "rural municipality", "name": "Eriksdale" },
+		{ "type": "rural municipality", "name": "Ethelbert" },
+		{ "type": "rural municipality", "name": "Fisher" },
+		{ "type": "rural municipality", "name": "Franklin" },
+		{ "type": "rural municipality", "name": "Gilbert Plains" },
+		{ "type": "rural municipality", "name": "Gimli" },
+		{ "type": "rural municipality", "name": "Glenella" },
+		{ "type": "rural municipality", "name": "Glenwood" },
+		{ "type": "rural municipality", "name": "Grahamdale" },
+		{ "type": "rural municipality", "name": "Grandview" },
+		{ "type": "rural municipality", "name": "Grey" },
+		{ "type": "rural municipality", "name": "Hamiota" },
+		{ "type": "rural municipality", "name": "Hanover" },
+		{ "type": "rural municipality", "name": "Harrison" },
+		{ "type": "rural municipality", "name": "Headingley" },
+		{ "type": "rural municipality", "name": "Hillsburg" },
+		{ "type": "rural municipality", "name": "Kelsey" },
+		{ "type": "rural municipality", "name": "Killarney-Turtle Mountain" },
+		{ "type": "rural municipality", "name": "La Broquerie" },
+		{ "type": "rural municipality", "name": "Lac du Bonnet" },
+		{ "type": "rural municipality", "name": "Lakeview" },
+		{ "type": "rural municipality", "name": "Lansdowne" },
+		{ "type": "rural municipality", "name": "Lawrence" },
+		{ "type": "rural municipality", "name": "Lorne" },
+		{ "type": "rural municipality", "name": "Louise" },
+		{ "type": "rural municipality", "name": "Macdonald" },
+		{ "type": "rural municipality", "name": "McCreary" },
+		{ "type": "rural municipality", "name": "Miniota" },
+		{ "type": "rural municipality", "name": "Minitonas" },
+		{ "type": "rural municipality", "name": "Minto" },
+		{ "type": "rural municipality", "name": "Montcalm" },
+		{ "type": "rural municipality", "name": "Morris" },
+		{ "type": "rural municipality", "name": "Morton" },
+		{ "type": "rural municipality", "name": "Mossey River" },
+		{ "type": "rural municipality", "name": "Mountain" },
+		{ "type": "rural municipality", "name": "North Cypress" },
+		{ "type": "rural municipality", "name": "North Norfolk" },
+		{ "type": "rural municipality", "name": "Oakland" },
+		{ "type": "rural municipality", "name": "Ochre River" },
+		{ "type": "rural municipality", "name": "Odanah" },
+		{ "type": "rural municipality", "name": "Park" },
+		{ "type": "rural municipality", "name": "Pembina" },
+		{ "type": "rural municipality", "name": "Piney" },
+		{ "type": "rural municipality", "name": "Pipestone" },
+		{ "type": "rural municipality", "name": "Portage la Prairie" },
+		{ "type": "rural municipality", "name": "Reynolds" },
+		{ "type": "rural municipality", "name": "Rhineland" },
+		{ "type": "rural municipality", "name": "Ritchot" },
+		{ "type": "rural municipality", "name": "Riverside" },
+		{ "type": "rural municipality", "name": "Roblin" },
+		{ "type": "rural municipality", "name": "Rockwood" },
+		{ "type": "rural municipality", "name": "Roland" },
+		{ "type": "rural municipality", "name": "Rosedale" },
+		{ "type": "rural municipality", "name": "Rossburn" },
+		{ "type": "rural municipality", "name": "Rosser" },
+		{ "type": "rural municipality", "name": "Russell" },
+		{ "type": "rural municipality", "name": "Saskatchewan" },
+		{ "type": "rural municipality", "name": "Shell River" },
+		{ "type": "rural municipality", "name": "Alexander" },
+		{ "type": "rural municipality", "name": "Shellmouth-Boulton" },
+		{ "type": "rural municipality", "name": "Shoal Lake" },
+		{ "type": "rural municipality", "name": "Sifton" },
+		{ "type": "rural municipality", "name": "Siglunes" },
+		{ "type": "rural municipality", "name": "Silver Creek" },
+		{ "type": "rural municipality", "name": "South Cypress" },
+		{ "type": "rural municipality", "name": "South Norfolk" },
+		{ "type": "rural municipality", "name": "Springfield" },
+		{ "type": "rural municipality", "name": "St. Andrews" },
+		{ "type": "rural municipality", "name": "St. Clements" },
+		{ "type": "rural municipality", "name": "St. François Xavier" },
+		{ "type": "rural municipality", "name": "St. Laurent" },
+		{ "type": "rural municipality", "name": "Stanley" },
+		{ "type": "rural municipality", "name": "Ste. Anne" },
+		{ "type": "rural municipality", "name": "Ste. Rose" },
+		{ "type": "rural municipality", "name": "Strathclair" },
+		{ "type": "rural municipality", "name": "Strathcona" },
+		{ "type": "rural municipality", "name": "Stuartburn" },
+		{ "type": "rural municipality", "name": "Swan River" },
+		{ "type": "rural municipality", "name": "Taché" },
+		{ "type": "rural municipality", "name": "Thompson" },
+		{ "type": "rural municipality", "name": "Victoria" },
+		{ "type": "rural municipality", "name": "Victoria Beach" },
+		{ "type": "rural municipality", "name": "Wallace" },
+		{ "type": "rural municipality", "name": "West St. Paul" },
+		{ "type": "rural municipality", "name": "Westbourne" },
+		{ "type": "rural municipality", "name": "Whitehead" },
+		{ "type": "rural municipality", "name": "Whitemouth" },
+		{ "type": "rural municipality", "name": "Whitewater" },
+		{ "type": "rural municipality", "name": "Winchester" },
+		{ "type": "rural municipality", "name": "Woodlands" },
+		{ "type": "rural municipality", "name": "Woodworth" }
+	]
+},
+{
+	"name": {
+		"common": "New Brunswick",
+		"native": {
+			"en": {
+				"common": "New Brunswick"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "county", "name": "Albert County" },
+		{ "type": "county", "name": "Carleton County" },
+		{ "type": "county", "name": "Charlotte County" },
+		{ "type": "county", "name": "Gloucester County" },
+		{ "type": "county", "name": "Kent County" },
+		{ "type": "county", "name": "Kings County" },
+		{ "type": "county", "name": "Madawaska County" },
+		{ "type": "county", "name": "Northumberland County" },
+		{ "type": "county", "name": "Queens County" },
+		{ "type": "county", "name": "Restigouche" },
+		{ "type": "county", "name": "Saint John County" },
+		{ "type": "county", "name": "Sunbury County" },
+		{ "type": "county", "name": "Victoria County" },
+		{ "type": "county", "name": "Westmorland County" },
+		{ "type": "county", "name": "York County" },
+	]
+},
+{
+	"name": {
+		"common": "Newfoudland and Labrador",
+		"native": {
+			"en": {
+				"common": "Newfoudland and Labrador"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "Labrador West" },
+		{ "type": "region", "name": "Labrador Coast" },
+		{ "type": "region", "name": "Nunatsiavut" },
+		{ "type": "region", "name": "Avalon Peninsula" },
+		{ "type": "region", "name": "Burin Peninsula" },
+		{ "type": "region", "name": "Bonavista Peninsula" },
+		{ "type": "region", "name": "South Coast" },
+		{ "type": "region", "name": "West Coast" },
+		{ "type": "region", "name": "Great Northern Peninsula" },
+		{ "type": "region", "name": "Northeast Coast" },
+		{ "type": "region", "name": "Fogo Island" },
+		{ "type": "region", "name": "Jack City Island" }
+	]
+},
+{
+	"name": {
+		"common": "Northwest Territories",
+		"native": {
+			"en": {
+				"common": "Northwest Territories"
+			}
+		}
+	},
+	"type": "territory",
+	"divisions": [
+		{ "type": "region", "name": "Inuvik Region" },
+		{ "type": "region", "name": "Sahtu Region" },
+		{ "type": "region", "name": "Dehcho Region" },
+		{ "type": "region", "name": "North Slave Region" },
+		{ "type": "region", "name": "South Slave Region" }
+	]
+},
+{
+	"name": {
+		"common": "Nova Scotia",
+		"native": {
+			"en": {
+				"common": "Nova Scotia"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "county", "name": "Annapolis County" },
+		{ "type": "county", "name": "Antigonish County" },
+		{ "type": "county", "name": "Colchester" },
+		{ "type": "county", "name": "Digby County" },
+		{ "type": "county", "name": "Guysborough County" },
+		{ "type": "county", "name": "Halifax County" },
+		{ "type": "county", "name": "Inverness County" },
+		{ "type": "county", "name": "Kings County" },
+		{ "type": "county", "name": "Pictou County" },
+		{ "type": "county", "name": "Queens County" },
+		{ "type": "county", "name": "Richmond County" },
+		{ "type": "county", "name": "Shelburne County" },
+		{ "type": "county", "name": "Victoria County" },
+		{ "type": "county", "name": "Yarmouth County" }
+	]
+},
+{
+	"name": {
+		"common": "Nunavut",
+		"native": {
+			"en": {
+				"common": "Nunavut"
+			}
+		}
+	},
+	"type": "territory",
+	"divisions": [
+		{ "type": "region", "name": "Kitikmeot Region" },
+		{ "type": "region", "name": "Kivalliq Region" },
+		{ "type": "region", "name": "Qikiqtaaluk Region" }
+	]
+},
+{
+	"name": {
+		"common": "Ontario",
+		"native": {
+			"en": {
+				"common": "Ontario"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "Northern Ontario" },
+		{ "type": "region", "name": "Southern Ontario" },
+		{ "type": "county", "name": "Algoma" },
+		{ "type": "county", "name": "Brant" },
+		{ "type": "county", "name": "Bruce County" },
+		{ "type": "county", "name": "Chatham-Kent" },
+		{ "type": "county", "name": "Dufferin County" },
+		{ "type": "county", "name": "Durham" },
+		{ "type": "county", "name": "Elgin County" },
+		{ "type": "county", "name": "Essex County" },
+		{ "type": "county", "name": "Frontenac County" },
+		{ "type": "county", "name": "Grey County" },
+		{ "type": "county", "name": "Haldimand County" },
+		{ "type": "county", "name": "Haliburton County" },
+		{ "type": "county", "name": "Halton" },
+		{ "type": "county", "name": "Hamilton" },
+		{ "type": "county", "name": "Hastings County" },
+		{ "type": "county", "name": "Huron County" },
+		{ "type": "county", "name": "Kawartha Lakes" },
+		{ "type": "county", "name": "Lambton County" },
+		{ "type": "county", "name": "Lanark County" },
+		{ "type": "county", "name": "Lennox and Addington County" },
+		{ "type": "county", "name": "Middlesex County" },
+		{ "type": "county", "name": "Haldimand County" },
+		{ "type": "county", "name": "Northumberland County" },
+		{ "type": "county", "name": "Ottawa" },
+		{ "type": "county", "name": "Oxford County" },
+		{ "type": "county", "name": "Peel" },
+		{ "type": "county", "name": "Perth County" },
+		{ "type": "county", "name": "Peterborough County" },
+		{ "type": "county", "name": "Prince Edward County" },
+		{ "type": "county", "name": "Renfrew County" },
+		{ "type": "county", "name": "Simcoe County" },
+		{ "type": "county", "name": "Sudbury" },
+		{ "type": "county", "name": "Toronto county" },
+		{ "type": "county", "name": "United Counties of Leeds and Grenville" },
+		{ "type": "county", "name": "United Counties of Prescott and Russell" },
+		{ "type": "county", "name": "United Counties of Stormont, Dundas and Glengarry" },
+		{ "type": "county", "name": "Wellington County" },
+		{ "type": "county", "name": "York" },
+		{ "type": "district", "name": "Cochrane District" },
+		{ "type": "district", "name": "District Municipality of Muskoka" },
+		{ "type": "district", "name": "Kenora District" },
+		{ "type": "district", "name": "Manitoulin District" },
+		{ "type": "district", "name": "Nipissing District" },
+		{ "type": "district", "name": "Parry Sound District" },
+		{ "type": "district", "name": "Rainy River District" },
+		{ "type": "district", "name": "Thunder Bay District" },
+		{ "type": "district", "name": "Timiskaming District" },
+		{ "type": "regional municipality", "name": "Regional Municipality of Niagara" },
+		{ "type": "regional municipality", "name": "Regional Municipality of Waterloo" }
+	]
+},
+{
+	"name": {
+		"common": "Prince Edward Island",
+		"native": {
+			"en": {
+				"common": "Prince Edward Island"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "North Shore" },
+		{ "type": "region", "name": "South Shore" },
+		{ "type": "region", "name": "West Prince" },
+		{ "type": "region", "name": "East Prince/Summerside Area" },
+		{ "type": "region", "name": "Charlottetown Area" },
+		{ "type": "county", "name": "Kings County" },
+		{ "type": "county", "name": "Prince County" },
+		{ "type": "county", "name": "Queens County" }
+	]
+},
+{
+	"name": {
+		"common": "Quebec",
+		"native": {
+			"fr": {
+				"common": "Québec"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "Bas-Saint-Laurent" },
+		{ "type": "region", "name": "Saguenay–Lac-Saint-Jean" },
+		{ "type": "region", "name": "Capitale-Nationale" },
+		{ "type": "region", "name": "Mauricie" },
+		{ "type": "region", "name": "Estrie" },
+		{ "type": "region", "name": "Montréal" },
+		{ "type": "region", "name": "Outaouais" },
+		{ "type": "region", "name": "Abitibi-Témiscamingue" },
+		{ "type": "region", "name": "Côte-Nord" },
+		{ "type": "region", "name": "Nord-du-Québec" },
+		{ "type": "region", "name": "Gaspésie–Îles-de-la-Madeleine" },
+		{ "type": "region", "name": "Chaudière-Appalaches" },
+		{ "type": "region", "name": "Laval" },
+		{ "type": "region", "name": "Lanaudière" },
+		{ "type": "region", "name": "Laurentides" },
+		{ "type": "region", "name": "Montérégie" },
+		{ "type": "region", "name": "Centre-du-Québec" }
+	]
+},
+{
+	"name": {
+		"common": "Saskatchewan",
+		"native": {
+			"en": {
+				"common": "Saskatchewan"
+			}
+		}
+	},
+	"type": "province",
+	"divisions": [
+		{ "type": "region", "name": "Carlton Trail Region" },
+		{ "type": "region", "name": "East Central Saskatchewan" },
+		{ "type": "region", "name": "Northern Saskatchewan" },
+		{ "type": "region", "name": "Regina" },
+		{ "type": "region", "name": "Saskatoon" },
+		{ "type": "region", "name": "Palliser's Triangle" },
+		{ "type": "region", "name": "Cypress Hills" }
+	]
+},
+{
+	"name": {
+		"common": "Yukon",
+		"native": {
+			"en": {
+				"common": "Yukon"
+			}
+		}
+	},
+	"type": "territory",
+	"divisions": [
+		{ "type": "region", "name": "Klondike" },
+		{ "type": "region", "name": "Southwen Lakes" }
+	]
+}
